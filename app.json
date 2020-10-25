@@ -4,9 +4,9 @@
     "slug": "erp-ensi",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/eje.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/eje.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
